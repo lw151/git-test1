@@ -11,4 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("222");
     }
+
+    public void m1(){}
 }
